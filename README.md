@@ -1,1 +1,1 @@
-A bunch of Ruby my scripts, mainly for manipulating/reformatting data.
+A bunch of my Ruby scripts, mainly for manipulating / reformatting data.
