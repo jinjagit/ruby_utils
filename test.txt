@@ -1,5 +1,67 @@
-something
-something; different thing; really different thing
-another thing
-something; different thing
-yet another thing
+Educación y juventud;Desarrollo comunitario
+Inclusión social
+Naturaleza y biodiversidad;Vivienda;Energía y tecnología;Limpieza y residuos;Espacios públicos y edificios;Desarrollo sostenible;Seguridad;Cultura, deportes y eventos;Educación y juventud;Inclusión social;Desarrollo comunitario;Salud y bienestar;Servicio público
+Educación y juventud;Salud y bienestar;Inclusión social;Desarrollo comunitario;Servicio público
+
+Naturaleza y biodiversidad
+
+
+Otros;Salud y bienestar;Inclusión social;Desarrollo comunitario;Espacios públicos y edificios;Seguridad;Vivienda;Servicio público;Desarrollo sostenible;Trabajo, economía y turismo;Movilidad
+Educación y juventud
+Salud y bienestar
+
+
+
+
+
+Naturaleza y biodiversidad;Limpieza y residuos;Trabajo, economía y turismo
+
+
+Naturaleza y biodiversidad;Desarrollo sostenible;Seguridad;Desarrollo comunitario
+Limpieza y residuos;Naturaleza y biodiversidad;Vivienda;Salud y bienestar;Cultura, deportes y eventos
+Educación y juventud;Cultura, deportes y eventos;Desarrollo comunitario
+Naturaleza y biodiversidad
+Cultura, deportes y eventos
+
+Cultura, deportes y eventos
+
+Salud y bienestar
+
+
+Educación y juventud
+
+
+
+
+
+
+
+Naturaleza y biodiversidad;Desarrollo sostenible;Seguridad;Educación y juventud;Energía y tecnología;Salud y bienestar;Desarrollo comunitario
+Salud y bienestar;Servicio público;Desarrollo comunitario;Vivienda;Espacios públicos y edificios;Trabajo, economía y turismo;Energía y tecnología;Naturaleza y biodiversidad;Limpieza y residuos;Desarrollo sostenible
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Servicio público
+
+
+Naturaleza y biodiversidad;Desarrollo sostenible;Energía y tecnología;Vivienda;Espacios públicos y edificios;Cultura, deportes y eventos
+Educación y juventud;Inclusión social
+
+
+
+
+
+
